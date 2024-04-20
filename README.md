@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Python
 - USA → DE
-- You can also find me \
+- You can also find me: \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏞️ hiking \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏙️ exploring the city \
 &nbsp;&nbsp;&nbsp;&nbsp; 🦤 watching pigeons \
