@@ -1,11 +1,12 @@
-Hi, I'm Valerie 
--🌱 I’m currently learning: Python
--USA → DE
--You can also find me;
-   -hiking
-   -exploring the city
-   -watching pigeons
-   -gaming
+### Hi, I'm Valerie 
+
+🌱 I’m currently learning: Python
+- USA → DE
+- You can also find me
+   - 🏞️ hiking
+   - 🏙️ exploring the city
+   - 🦤 watching pigeons
+   - 💻 gaming
 <!---
 cafeokapi/cafeokapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
