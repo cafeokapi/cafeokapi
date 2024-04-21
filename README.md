@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🏞️ hiking \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏙️ exploring the city \
 &nbsp;&nbsp;&nbsp;&nbsp; 🦤 watching pigeons \
-&nbsp;&nbsp;&nbsp;&nbsp; 💻 gaming
+&nbsp;&nbsp;&nbsp;&nbsp; 💻 gaming \
 &nbsp;&nbsp;&nbsp;&nbsp; 🚆 admiring trains and enjoying public transit
 <!---
 cafeokapi/cafeokapi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
