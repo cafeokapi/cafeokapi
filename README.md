@@ -1,8 +1,8 @@
 ### Hi, I'm Valerie 
 
-🌱 I’m currently learning:
-  Python \
-  Kotlin (via the Andorid: https://developer.android.com/courses/android-basics-compose/course)
+🌱 I’m currently learning: \
+- Python \
+- Kotlin (via the Andorid: https://developer.android.com/courses/android-basics-compose/course)
   
 - USA → DE
 - You can also find me: \
