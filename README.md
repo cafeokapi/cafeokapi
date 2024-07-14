@@ -4,7 +4,6 @@
 Python \
 Kotlin (via: https://developer.android.com/courses/android-basics-compose/course)
   
-- USA → DE → USA
 - You can also find me: \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏞️ hiking \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏙️ exploring the city \
