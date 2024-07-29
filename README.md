@@ -1,5 +1,5 @@
 ### Hi, I'm Valerie 
-
+🇺🇸 ➡️ 🇩🇪
 🌱 I’m currently learning: \
 Python \
 Kotlin (via: https://developer.android.com/courses/android-basics-compose/course)
