@@ -3,7 +3,7 @@
 🌱 I’m currently learning: \
 Python \
 Kotlin (via: https://developer.android.com/courses/android-basics-compose/course) \
-HTML and CSS \
+HTML and CSS 
   
 - You can also find me: \
 &nbsp;&nbsp;&nbsp;&nbsp; 🏞️ hiking \
